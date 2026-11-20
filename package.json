@@ -1,0 +1,12 @@
+{
+  "name": "dayleft",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/local-notifications": "^6.0.0",
+    "@capacitor-mlkit/barcode-scanning": "^6.0.0"
+  }
+}
